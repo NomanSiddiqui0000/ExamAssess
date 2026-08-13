@@ -1,6 +1,6 @@
 # ExamAssess
 
-![ExamAssess Logo]([examassess.png](https://ibb.co.com/pHZ1s81)
+![ExamAssess Logo](https://ibb.co.com/pHZ1s81)
 
 **ExamAssess** is a modern assessment and examination management platform designed to simplify the complete assessment lifecycle for students, teachers, administrators, and educational institutions.
 
