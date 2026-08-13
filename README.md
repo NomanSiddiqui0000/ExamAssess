@@ -1,6 +1,6 @@
 # ExamAssess
 
-![ExamAssess Logo]([examassess.png](https://github.com/samuelnovin/Rozee.pk-jobs-Scrapper/blob/9f544d186aca4f53218f02c709cc734de613ca4f/examassess.png))
+![ExamAssess Logo]([examassess.png](https://github.com/samuelnovin/Rozee.pk-jobs-Scrapper/blob/9f544d186aca4f53218f02c709cc734de613ca4f/examassess.png)
 
 **ExamAssess** is a modern assessment and examination management platform designed to simplify the complete assessment lifecycle for students, teachers, administrators, and educational institutions.
 
