@@ -1,6 +1,6 @@
 # ExamAssess
 
-![ExamAssess Logo](YOUR_EXAMASSESS_LOGO_URL_HERE)
+![ExamAssess Logo](examassess.png)
 
 **ExamAssess** is a modern assessment and examination management platform designed to simplify the complete assessment lifecycle for students, teachers, administrators, and educational institutions.
 
