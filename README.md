@@ -13,7 +13,17 @@
 </p>
 
 <p align="center">
-  Assessment creation · Question management · Classrooms · Results · Performance · Leaderboards
+  <a href="http://examassess.com/">Visit ExamAssess</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Assessment Creation
+  &nbsp;·&nbsp;
+  Question Management
+  &nbsp;·&nbsp;
+  Classrooms
+  &nbsp;·&nbsp;
+  Results
+  &nbsp;·&nbsp;
+  Performance
 </p>
 
 ---
