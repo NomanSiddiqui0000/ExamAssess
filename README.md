@@ -1,17 +1,28 @@
-# ExamAssess
-
 <p align="center">
-  <img src="./examassess.png" alt="ExamAssess Logo" width="180">
+  <img
+    src="./examassess.png"
+    alt="ExamAssess"
+    width="200"
+  />
 </p>
 
-**ExamAssess** is a modern assessment and examination management platform designed to simplify the complete assessment lifecycle for students, teachers, administrators, and educational institutions.
+<h1 align="center">ExamAssess</h1>
 
-The platform brings assessment creation, question management, classrooms, student management, automated quizzes, performance tracking, results, leaderboards, credits, and administrative controls into a single system.
+<p align="center">
+  A modern assessment and examination management platform for students, teachers, administrators, and educational institutions.
+</p>
 
-ExamAssess is being developed with a focus on reliability, scalability, usability, and a professional assessment experience for both learners and educators.
+<p align="center">
+  Assessment creation · Question management · Classrooms · Results · Performance · Leaderboards
+</p>
 
 ---
 
+ExamAssess is designed to simplify the complete assessment lifecycle by bringing assessment creation, question management, classrooms, student management, automated quizzes, performance tracking, results, leaderboards, credits, and administrative controls into a single platform.
+
+The platform is being developed with a focus on reliability, scalability, usability, and a professional assessment experience for both learners and educators.
+
+---
 ## About ExamAssess
 
 ExamAssess is designed to support educational institutions and independent educators in managing digital assessments efficiently.
